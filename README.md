@@ -1,4 +1,4 @@
-# WOL
+# Wake on LAN from Command Line
 
 ## Install
 ```
