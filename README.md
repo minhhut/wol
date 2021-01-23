@@ -1,4 +1,4 @@
-[![NuGet version (SoftCircuits.Silk)](https://img.shields.io/nuget/v/SoftCircuits.Silk.svg?style=flat-square)](https://www.nuget.org/packages/wol/)
+[![NuGet version (minhhut.wol)](https://img.shields.io/static/v1?label=nuget&message=1.0.0&color=blue?style=flat-square)](https://www.nuget.org/packages/wol/)
 
 # Wake on LAN from Command Line
 
