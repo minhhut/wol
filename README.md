@@ -4,7 +4,7 @@
 
 ## Install
 ```
-dotnet install -g wol
+dotnet tool install -g wol
 ```
 
 ## Usage
